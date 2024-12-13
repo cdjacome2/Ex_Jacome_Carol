@@ -1,0 +1,4 @@
+C:\Users\steve\source\repos\Ex_Jacome_Carol\Ex_Jacome_Carol\SLC\obj\Debug\net8.0\SLC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\Ex_Jacome_Carol\Ex_Jacome_Carol\SLC\obj\Debug\net8.0\SLC.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\Ex_Jacome_Carol\Ex_Jacome_Carol\SLC\obj\Debug\net8.0\SLC.AssemblyInfo.cs
+C:\Users\steve\source\repos\Ex_Jacome_Carol\Ex_Jacome_Carol\SLC\obj\Debug\net8.0\SLC.csproj.CoreCompileInputs.cache
